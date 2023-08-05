@@ -7,7 +7,7 @@ const fibonacci = (n) => {
   return fib
 }
 
-// BigO - O(n)
+// BigO = O(n)
 
 console.log(fibonacci(2))
 console.log(fibonacci(3))
